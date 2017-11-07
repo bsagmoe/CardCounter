@@ -1,5 +1,5 @@
-![Cover Photo](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/563/412/datas/gallery.jpg)
-![Eight, Three, and Six of Spades](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/562/943/datas/gallery.jpg)
+![Cover Photo](/CardCounter_2x.png)
+![Eight, Three, and Six of Spades](/Screenshot_20171105-013740.png)
 
 *Yes, the photos say x of hearts when they're clearly spades. I was just to lazy to take the training photos in the right order*
 
